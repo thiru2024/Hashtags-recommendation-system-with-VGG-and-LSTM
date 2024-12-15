@@ -2,11 +2,11 @@
 
 This is a PyTorch implementation of a hashtag generator. The generator takes in an input image and tries to generate associated hashtags. The generator is based off a sequence to sequence model and is trained on the HARRISON datset.
 
-Prerequisites
+## Prerequisites
 Python 2.7
 PyTorch 0.4
 tqdm 4.2.3
-Installation
+## Installation
 Clone the repository
 git clone https://github.com/thiru2024/Hashtags-recommendation-system-with-VGG-and-LSTM
 Setup Data
